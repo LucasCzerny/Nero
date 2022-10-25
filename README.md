@@ -14,7 +14,7 @@
 
 ### PBR
 
-(I set his metallic value to 1 to make the reflections more clearly visible)
+(I set the metallic value to 1 to make the reflections clearly visible)
 
 ![pbr](screenshots/pbr.png)
 
