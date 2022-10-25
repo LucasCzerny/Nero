@@ -1,0 +1,27 @@
+Skybox:
+  Directory: C:\Users\Lucas\source\repos\Nero\NeroApp\Assets\Skyboxes\Fields\FishPond
+  Extension: jpg
+DirectionalLights:
+  - Direction: [0, 1, 0]
+    Diffuse: [1, 1, 1]
+    NearPlane: 1
+    FarPlane: 7.5
+PointLights:
+  - Position: [0, 0.899999976, 0]
+    Diffuse: [1, 0, 0]
+    NearPlane: 0.100000001
+    FarPlane: 25
+  - Position: [-1.39999998, 0, 0]
+    Diffuse: [0, 1, 0]
+    NearPlane: 0.100000001
+    FarPlane: 25
+Models:
+  - Name: r2d2
+    Path: C:\Users\Lucas\source\repos\Nero\NeroApp\Assets\Models\r2d2\r2d2.glb
+GameObjects:
+  - Name: r2d2
+    ModelName: r2d2
+    Transform:
+      Position: [0, 0, 0]
+      Scale: [1, 1, 1]
+      Rotation: [0, 0, 0]

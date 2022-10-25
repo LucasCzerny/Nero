@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Lucas\source\repos\Nero\Nero\dependencies\assimp\CMakeFiles\68d338b2cdfe00ccc041b029b0fab39d\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Lucas\source\repos\Nero\Nero\dependencies\assimp\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Lucas\source\repos\Nero\Nero\dependencies\assimp\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{3B23983C-D9C5-3ED1-BBA2-F6219F8C38DE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
